@@ -1,0 +1,11 @@
+# Environnement virtuel et caches Python 
+.venv/ 
+__pycache__/ 
+*.pyc   
+
+# Donnees regenerees par donnees.py 
+data/
+
+ # Serveur MLflow local 
+ mlflow.db 
+ mlartifacts/ 
